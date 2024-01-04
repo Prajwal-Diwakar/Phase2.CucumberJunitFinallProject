@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BaseTest {
 
-	public static WebDriver driver = new ChromeDriver();
+	public static WebDriver driver = new FirefoxDriver();
 	
 
 }
